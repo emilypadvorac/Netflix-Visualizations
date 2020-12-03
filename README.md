@@ -1,1 +1,1 @@
-# Netflix-Visualizations
+# Netflix Visualizations
